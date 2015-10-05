@@ -63,7 +63,7 @@ You'll know if a lesson on Learn is a lab by the actions the right column asks y
 
 #### READMEs
 
-READMEs are lessons that only have instructional content. They are designed to teach you something without challenging you to practice or implement the concept directly. This current lesson you are reading is a README.
+READMEs are lessons that only have instructional content. They are designed to teach you something without challenging you to practice or implement the concept directly. This current lesson is a README.
 
 READMEs provide context and exposition on a topic by breaking concepts down. READMEs are how you learn enough to solve a lab.
 
