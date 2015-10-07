@@ -4,7 +4,7 @@ Welcome to Learn! We're so thrilled you've joined our community of learners!
 
 ## The Learn Community
 
-Learn is designed for people that are passionate, curious, self-driven, and absolutely serious about learning to code. We are on a never ending quest for knowledge and we know there are no shortcuts.
+Learn is designed for people who are passionate, curious, self-driven, and absolutely serious about learning to code. We are on a never ending quest for knowledge and we know there are no shortcuts.
 
 Most people on Learn have already been learning to code a bit using the amazing and plentiful resources all around the internet. The content on Learn makes no assumptions though and is designed for absolute beginners. However, if you find it impossibly challenging at first, ask for help and an instructor from the community will be so absolutely glad to help.
 
