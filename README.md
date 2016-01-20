@@ -16,7 +16,7 @@ Finally, we don't believe in learning alone. As you make progress, expect to bum
 
 ## Recap
 
-At this point, you've already created a Learn account, got a local development environment set up, and you've confirmed that that dev environment can talk to Learn. Great!
+At this point, you've already created a Learn account, got a local development environment set up, and you've confirmed that the dev environment can talk to Learn. Great!
 
 Now, here you are in Learn, ready to start Learning.
 
