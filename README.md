@@ -83,4 +83,4 @@ Seeing as this lesson is a README, you're now done and ready to go to the next l
 
 Happy Learning!
 
-<a href='https://learn.co/lessons/learning-on-learn-nitrous' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/learning-on-learn-nitrous' title='Learning On Learn'>Learning On Learn</a> on Learn.co and start learning to code for free.</p>
